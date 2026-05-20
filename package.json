@@ -1,5 +1,5 @@
 {
-  "name": "@zentrix-tech/baileys",
+  "name": "@zentrix23/baileys",
   "version": "1.0.0",
   "description": "WhatsApp Web API by Zentrix Tech",
   "keywords": [
@@ -9,10 +9,10 @@
     "zentrix-tech",
     "baileys"
   ],
-  "homepage": "https://github.com/zentrix-tech/baileys",
+  "homepage": "https://github.com/ojodaniel20101-prog/baileys",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zentrix-tech/baileys.git"
+    "url": "https://github.com/ojodaniel20101-prog/baileys.git"
   },
   "license": "MIT",
   "author": "Zentrix Tech",

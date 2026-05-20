@@ -7,9 +7,9 @@ A powerful, multi-device WhatsApp Web API library.
 ## Installation
 
 ```bash
-npm install @zentrix-tech/baileys
+npm install @zentrix23/baileys
 # or
-yarn add @zentrix-tech/baileys
+yarn add @zentrix23/baileys
 ```
 
 ## Requirements
@@ -19,7 +19,7 @@ yarn add @zentrix-tech/baileys
 ## Quick Start
 
 ```javascript
-const { makeWASocket, useMultiFileAuthState } = require('@zentrix-tech/baileys')
+const { makeWASocket, useMultiFileAuthState } = require('@zentrix23/baileys')
 
 async function startSock() {
   const { state, saveCreds } = await useMultiFileAuthState('auth_info')
